@@ -1,1 +1,2 @@
 TenterKart.in is an E-commerce Site
+This is Dynamic Webpage.
