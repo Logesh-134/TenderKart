@@ -177,7 +177,7 @@ const products = [
         image: "assets/img/img9.jpg",
         link: "components/product9.html"
     }
-];
+]; git 
 
 // render product card
 function renderProducts() {
