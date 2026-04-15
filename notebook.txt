@@ -1,2 +1,2 @@
 Project Title: E-commerce Website
-Front-end Languages: HTML, CSS and JavaScript   
+Front-end Languages: HTML, CSS and JavaScript            
